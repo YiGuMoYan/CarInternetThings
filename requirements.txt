@@ -1,0 +1,13 @@
+moviepy
+opencv-python
+pyserial
+pyqt5
+pillow
+numpy
+matplotlib
+pyaudio
+pyttsx3
+webrtcvad
+vosk[deps]
+tritonclient[all]
+pyyaml

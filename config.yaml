@@ -1,0 +1,4 @@
+coco:
+  server_url: 192.168.1.96:31000
+  input_name: input
+  model_name: m-official-13
